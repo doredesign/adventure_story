@@ -1,0 +1,27 @@
+---
+0:
+  t: Welcome to the first message. What would you like to do?
+  1: Go to option 1.
+  2: Go to option 2.
+  3: Go to option 3.
+1:
+  t: You made to 1! Congrats! What now, boss?
+  4: Go to option 4.
+  5: Go to option 5.
+2:
+  t: You made to 2! Congrats! What now, boss?
+  6: Go to option 6.
+3:
+  t: You made to 3! Congrats! What now, boss?
+  6: Go to option 6.
+4:
+  t: You made to 4! Congrats! What now, boss?
+  6: Go to option 6.
+5:
+  t: You made to 5! Congrats! What now, boss?
+  6: Go to option 6.
+6:
+  t: |
+    You made to 6! Congrats! This is the end.
+
+    [Static]
