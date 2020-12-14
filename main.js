@@ -34,7 +34,7 @@ var pageReady = $.when($.ready, storyReady).then(function () {
     messageDone.done(function () {
       var alertMessage = "";
       if (Object.keys(location_data).length == 0) {
-        alertMessage = "<div>No more messages received. <a href='#home'>Start over?</a></div>";
+        alertMessage = "<div>No more messages received. <a href='#'>Start over?</a></div>";
       }
       $alert.html(alertMessage);
 
