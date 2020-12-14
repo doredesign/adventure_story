@@ -1,0 +1,78 @@
+.container {
+  margin-top: 30px;
+  width: 700px;
+}
+#sender_window {
+  font-family: 'Courier New', Courier, monospace;
+  border: 1px solid #444;
+  padding: 20px;
+  margin-bottom: 30px;
+  width: 700px;
+}
+ul#options {
+  padding: 0;
+}
+ul#options li{
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+ul#options li a{
+  text-align: left;
+}
+
+
+.blinking-cursor {
+  font-weight: 100;
+  /* font-size: 30px; */
+  color: #2E3D48;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
