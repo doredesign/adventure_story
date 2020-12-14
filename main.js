@@ -14,6 +14,7 @@ var pageReady = $.when($.ready, storyReady).then(function () {
   window.$container = $(".container");
   window.$alert = $("#alert");
   window.displayLocation = function(location_data) {
+    location_data = { ...location_data }
     $sender.text("");
     $alert.html("");
     $options.html("");
