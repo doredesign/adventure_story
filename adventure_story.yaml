@@ -1,0 +1,152 @@
+---
+0:
+  t: Hello, is anyone getting my messages?
+  2: Yes, I got your message. Who are you?
+2:
+  t: Oh good! What a relief! I’ve been trying to reach someone… anyone… for hours. Please don’t leave me.
+  3: I’m not going to leave you. Who are you?
+  4: Sorry, you didn’t answer my question and I need to go eat dinner. Chill.
+3:
+  t: >
+    Sorry, yes. Who am I? I am Bart and I can’t feel my toes. I’ve been stuck in this crashed plane for
+    hours now and there’s been no sign of rescuers. Don’t planes have transponders or something to alert
+    authorities when they crash? Please help me!
+  4: Um, I don’t know, but I don’t think I can help. I can barely tie my shoes!
+  7: Ok, um. How can I help? Is there anyone else with you in the plane?
+  8: Yes, you’re right. All planes have transponders. This sounds suspicious. Is this for real? Are you just trying to get my money?
+4:
+  t: No! Please don’t leave! I might die here and you are the only person I’ve been able to reach!
+  5: Tough luck, pal. I’m out. Bye, tiny person! Wouldn’t wanna be ya!
+  3: Ok ok sorry. This sounds serious. I’ll do my best to help. Who are you again?
+5:
+  t: |
+    Nooo! I’d... hoped you’d help.
+
+    [Static]
+7:
+  t: No. I’m the only living being here. Everything else alive escaped a while ago, and forgot me cuz I got trapped under cargo, out of sight.
+  9: Can you not lift up the cargo? Is that why you can’t feel your toes?
+  10: Everyone knows trapped people are supposed to ration their air and keep all their clothes on fer sure. Have you done these?
+8:
+  t: It is for real. I really am trapped in a crashed plane in the Alps. At least I think it’s a plane.
+  5: You still sound like you just wanna snatch up all my big bucks. I’m gonna close this off now.
+  11: Yow! You need some help if you don’t know if it’s a plane or not. I need some more details about you.
+9:
+  t: I can lift it up by dumping it off, but it might be breakable and valuable. I don’t think I want to touch it any more than I need to.
+  12: You just need to LIFT IT UP ALREADY. You shouldn’t really care if it’s breakable.
+  11: Ok. What is it that is on you? Can you get it off without breaking it?
+10:
+  t: |
+    Well, I think your word for me would be large, purple-stripe-winged frog, and as far as I know,
+    large, purple-stripe-winged frogs don’t wear clothes. I don’t. I’m not exactly sure what ration
+    means, but I have been taking big deep breaths ever since the plane crashed. Air sure is cold up here.
+    I'm very tired. I might just take a rest. After all, large purple-stripe-winged frogs are VERY good at sleeping. I'll get back to you later. Aaaah - being stuck in a plane is very - YAAAAAWNN - comfortable. I should get -YYYAAAWWN - stranded more often under cargo.[froggy snoring] AAAAAGHGHGH-SHNOOOWOONK. AAAAAGHGHGHGH-SHNOOWOOOWONK. AAAAAGHGHGHGH...
+
+    [Static]
+11:
+  t: >
+    I am under an extremely large jar of soup I've been eating. I can’t get it off because my suckers
+    aren’t strong enough to pull it off. Did I mention my tail is glued to the floor? And my snout is bleeding.
+  5: That’s too weird. I don’t believe you anymore and I’m now turning this thing off.
+  16: I am calling 911 right now.
+  15: >
+    What do you even look like? I’m not sure I want to know. But I do know that if you want to get out,
+    you at least need to take the jar off! You can always get another one.
+12:
+  t: >
+    But it's a TV and that’s all I’ve been doing, watching A Cop And A Half. It’s a great show. That
+    doesn’t have anything to do with the fact that I’m stuck under it! And it’s a big ol’ 110-inch
+    screen AND a monitor AND the section of the wall it’s plugged into. All of that junk is on top of me.
+    Not sure how it still works after the plane crash, but I must say I'm impressed. Just a minute...
+    I hear something outside the plane. A deep creaking noise... like a huge metal thing moving.
+    I think the plane is moving! It's sliding downhill! Now it's rolling. ... Ok I think we finally came to a stop.
+    I'm free! There's debris everywhere in here. ... Something in the plane is making a noise. Like a living thing.
+    What should I do?
+  21: Go figure out what's making the noise.
+  25: Run away! Sounds scawy.
+15:
+  t: Maybe you think that. Most people think I’m cute! Anyway, what can I do?
+  17: Oh! I know. You can use your suckers to pick up yourself then, when the jar falls catch it with your suckers. Wait. How many suckers do you have?
+  5: I don't think you're cute. You sound horrific.
+  18: Okay, from what I know, if you have suckers, you shouldn't use them to move cargo.
+16:
+  t: |
+    No! Don’t do that. They will kill me!
+
+    (static)
+17:
+  t: Oh, good idea! I never thought of that. I'll do it. OH NO! The plane started to roll over and I'm going to be crushed for sure!
+  19: Quick, thrash around as wildly as you can!! Maybe you'll get un-trapped!
+  20: Don't move! If you move you'll be crushed!
+18:
+  t: |
+    Okay. I won't. I'll stop them from wiggling about... Uh-oh... Apparently my wiggling suckered tentacles were keeping that REALLY LARGE suitcase from falling on me... Uh-oh... [THUDDD]
+
+    [Static]
+19:
+  t: I am! I'm wiggling as much as I can! The jar of soup came off! OOOOF - one of my tentacles got crushed.
+  22: If you're any sort of lizardy thing you can afford to lose a limb. Keep thrashing about!
+  20: Stop wiggling before more of you gets crushed!
+20:
+  t: >
+    Okay, I won't. I'll stick my suckers to the floor. Oh great. The plane is rolling around and around and...
+    oh, now I'm on the ceiling equivalent. I'm right above a window! Should I drop?
+  23: No, you should check the area. See if it's safe.
+  24: Go ahead! It's your chance at freedom - you should take a big ol' leap for it!
+21:
+  t: >
+    Ok. Investigating. It sounds like a person moaning. Very quiet. Another passenger!
+    I thought I was the only one left. Ooh. She's hurt badly. Big gash in her abdomen. She has a cell phone in her hand!
+  28: Grab the phone! Call for help!
+  29: The phone is good news, but see if you can stop the bleeding.
+22:
+  t: |
+    Okay. Will do. I'm throwing my head, tail, and tentacles every which way, and... uh oh... something is dislodged. I think it's going to fall on... AAAAAUGHHH!
+
+    [Static]
+23:
+  t: Okay... the window seems to be closed. I think if I drop, the window will break because I weigh like 358 finnioos. Should I crawl down the sides of the plane?
+  26: Yes, you should. Then open the window.
+  27: No, don't. If you do, the walls might break too, since you weigh like 385 finachoos. By the way, WHAT ON EARTH is an finachoo and how does it translate to pounds?
+24:
+  t: |
+    Here I go! GERRR-ONNNIMOOOOOOOOOOO!!!!!!! Uh-oh... I hit the window... it broke... I'm falling... I'm covered in broken glass and a lot of it's in my mouth... Broken glass tastes really good... [THUNKKKK] I'm dead.
+
+    [Static]
+25:
+  t: |
+    Ok. Heading out the back. Maybe I can find the others. Whew. It's cold out here. And... I hear howling. Wolves! Running! They're gonna eat me alive until it has turned into eating me dead!
+
+    [Static]
+26:
+  t: I did it! I'm FREE! Thank you, you saved me from a scary jar of soup! Even if it does taste good! I will find your address and give you a proper thanking!
+  31: You're welcome. But please don't come to my house.
+  32: BRING IT ON! I'm scheduling a big party!
+27:
+  t: |
+    Okay. I won't. What? The plane. It's moving up! Every thing is floating, and I think I am in space! Oh no. A big box is coming at me! [CRASH]
+
+    [Static]
+28 :
+  t: |
+    Ok. Phone has battery. Unlocked! Calling for help... Good news! Help is on the way! Thanks for your help.
+    Uh oh. This lady stopped breathing! I probably should have tried to stop the bleeding first.
+
+    [Static]
+31:
+  t: Okay, fine. Thanks again and GOODBYE!
+  33: Goodbye!
+32:
+  t: Will be there! You can expect me there in about 5.46328956473829574839 kefflooers!
+  33: What is a kefflooer? Oh whatever. You and your fachoos, or was it finnioos, and your kefflooers. Anyway, see you then!
+33:
+  t: Congrats! You helped Bart the thingie-thanger get to safety!
+29:
+  t: |
+    Good call. Pressure on the wound. Hey I think she's coming about... This pressure probably doesn't feel too good. Imma call for help on her phone. Ok. Phone has battery. Unlocked! Calling for help... Good news! Help is on the way! Thanks for your help. Goodbye!
+  34: Goodbye!
+34:
+  t: |
+    Congrats! You helped Bart and the woman get to safety!
+
+    [Static]

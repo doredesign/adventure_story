@@ -8,11 +8,11 @@ end
 require 'highline'
 require 'yaml'
 
-@story = YAML.load_file("test_story.yaml")
+@story = YAML.load_file("adventure_story.yaml")
 @cli = HighLine.new
 
 def prompt_from_location(location)
-  this_story = @story[location]
+  this_story = @story[location].dup
   prompt = this_story.delete("t")
   if this_story.empty?
     @cli.say "\n#{prompt}"
